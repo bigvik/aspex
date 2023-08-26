@@ -1,5 +1,5 @@
 import os
-import sys, time
+import sys
 import csv
 import json
 import urllib.request
